@@ -1,0 +1,9 @@
+## Interface: 120005
+## Title: KeySense
+## Notes: Mythic+ applicant impact and group confidence helper.
+## Author: Jay
+## Version: 0.1.0
+## SavedVariables: KeySenseDB, KeySenseExternalDB
+## Category: Dungeons & Raids
+
+KeySense.lua
